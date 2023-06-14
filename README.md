@@ -1,4 +1,9 @@
 ### Hi there 👋
+## 🚀 Sobre mim
+Atualmente sou estagiário.💻
+Sou estudante Bacharelado em Ciências da Computação✏️
+Obtendo novos métodos de estudos para um breve futuro na profissão.
+
 
 <!--
 **CH-dev48/CH-dev48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
